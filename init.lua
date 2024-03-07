@@ -20,6 +20,12 @@
 =====================================================================
 =====================================================================
 
+--NOTE: MENTIONABLE KEYBINDS
+
+--NOTE: IMPORTANT LINKS
+
+
+
 What is Kickstart?
 
   Kickstart.nvim is *not* a distribution.
